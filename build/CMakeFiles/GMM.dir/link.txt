@@ -1,0 +1,2 @@
+/usr/bin/ar qc libGMM.a  CMakeFiles/GMM.dir/GMM.cpp.o CMakeFiles/GMM.dir/Kmeans.cpp.o CMakeFiles/GMM.dir/Matrix.cpp.o
+/usr/bin/ranlib libGMM.a

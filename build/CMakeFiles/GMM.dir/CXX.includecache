@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mike/marble_ws/src/marble_robot/marble_asset_localizer/tf_fitter/GMM/GMM.cpp
+fstream
+-
+iostream
+-
+GMM.h
+/home/mike/marble_ws/src/marble_robot/marble_asset_localizer/tf_fitter/GMM/GMM.h
+Kmeans.h
+/home/mike/marble_ws/src/marble_robot/marble_asset_localizer/tf_fitter/GMM/Kmeans.h
+Matrix.h
+/home/mike/marble_ws/src/marble_robot/marble_asset_localizer/tf_fitter/GMM/Matrix.h
+
+/home/mike/marble_ws/src/marble_robot/marble_asset_localizer/tf_fitter/GMM/GMM.h
+string
+-
+math.h
+-
+
+/home/mike/marble_ws/src/marble_robot/marble_asset_localizer/tf_fitter/GMM/Kmeans.cpp
+math.h
+-
+Kmeans.h
+/home/mike/marble_ws/src/marble_robot/marble_asset_localizer/tf_fitter/GMM/Kmeans.h
+
+/home/mike/marble_ws/src/marble_robot/marble_asset_localizer/tf_fitter/GMM/Kmeans.h
+
+/home/mike/marble_ws/src/marble_robot/marble_asset_localizer/tf_fitter/GMM/Matrix.cpp
+Matrix.h
+/home/mike/marble_ws/src/marble_robot/marble_asset_localizer/tf_fitter/GMM/Matrix.h
+
+/home/mike/marble_ws/src/marble_robot/marble_asset_localizer/tf_fitter/GMM/Matrix.h
+string
+-
+
